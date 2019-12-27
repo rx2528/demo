@@ -1,4 +1,7 @@
-#Demp Proj
-Thsi is simple readme file
+# Demo Project README
+This is a simple readme file
 
-added a new line
+## Heading 2
+
+MOre text MODIFIED
+just something going on
